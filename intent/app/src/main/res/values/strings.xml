@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="leigo_banco">Leigo Banco</string>
+    <string name="numero_da_conta">numero da conta:</string>
+    <string name="senha">senha:</string>
+    <string name="prosseguir">Prosseguir</string>
+    <string name="abacaxi202">abacaxi202</string>
+    <string name="exemplo_0892822">exemplo: 0892822</string>
+    <string name="nao_sou_rob">Nao sou robô</string>
+    <string name="sou_um_rob">sou um robô</string>
+    <string name="_211094202">211094202</string>
+
+</resources>
